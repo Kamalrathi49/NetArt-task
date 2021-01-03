@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/https//kamalrathi49.github.io/NetArt-task/static/css/main.47f339a3.chunk.css",
+    "main.js": "/https//kamalrathi49.github.io/NetArt-task/static/js/main.bbba1ee7.chunk.js",
+    "main.js.map": "/https//kamalrathi49.github.io/NetArt-task/static/js/main.bbba1ee7.chunk.js.map",
+    "runtime-main.js": "/https//kamalrathi49.github.io/NetArt-task/static/js/runtime-main.11045c62.js",
+    "runtime-main.js.map": "/https//kamalrathi49.github.io/NetArt-task/static/js/runtime-main.11045c62.js.map",
+    "static/js/2.87ffe355.chunk.js": "/https//kamalrathi49.github.io/NetArt-task/static/js/2.87ffe355.chunk.js",
+    "static/js/2.87ffe355.chunk.js.map": "/https//kamalrathi49.github.io/NetArt-task/static/js/2.87ffe355.chunk.js.map",
+    "static/js/3.e3cc9c82.chunk.js": "/https//kamalrathi49.github.io/NetArt-task/static/js/3.e3cc9c82.chunk.js",
+    "static/js/3.e3cc9c82.chunk.js.map": "/https//kamalrathi49.github.io/NetArt-task/static/js/3.e3cc9c82.chunk.js.map",
+    "index.html": "/https//kamalrathi49.github.io/NetArt-task/index.html",
+    "static/css/main.47f339a3.chunk.css.map": "/https//kamalrathi49.github.io/NetArt-task/static/css/main.47f339a3.chunk.css.map",
+    "static/js/2.87ffe355.chunk.js.LICENSE.txt": "/https//kamalrathi49.github.io/NetArt-task/static/js/2.87ffe355.chunk.js.LICENSE.txt",
+    "static/media/2.8563a9b8.png": "/https//kamalrathi49.github.io/NetArt-task/static/media/2.8563a9b8.png",
+    "static/media/3.5d60ad10.png": "/https//kamalrathi49.github.io/NetArt-task/static/media/3.5d60ad10.png",
+    "static/media/logo.c3067270.png": "/https//kamalrathi49.github.io/NetArt-task/static/media/logo.c3067270.png",
+    "static/media/trophy.034f1e05.png": "/https//kamalrathi49.github.io/NetArt-task/static/media/trophy.034f1e05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11045c62.js",
+    "static/js/2.87ffe355.chunk.js",
+    "static/css/main.47f339a3.chunk.css",
+    "static/js/main.bbba1ee7.chunk.js"
+  ]
+}
